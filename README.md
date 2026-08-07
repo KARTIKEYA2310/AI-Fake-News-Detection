@@ -38,18 +38,17 @@ The project compares multiple machine learning models and feature extraction tec
 ---
 
 ## Project Architecture
-
-![alt text](<Screenshot 2026-08-07 221441.png>)
+architecture.png
 
 ---
 
 ## Workflow
-![alt text](<Screenshot 2026-08-07 221631.png>)
+images\workflow.png
 
 ---
 
 ## Machine Learning Pipeline
-![alt text](<Screenshot 2026-08-07 221702.png>)
+images\ml_pipeline.png
 
 ---
 
