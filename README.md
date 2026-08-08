@@ -187,7 +187,6 @@ reports/IEEE_Report_300970.pdf
 
 - Transformer-based models (BERT, RoBERTa)
 - Explainable AI (XAI)
-- Streamlit web application
 - REST API deployment
 - Real-time news classification
 
